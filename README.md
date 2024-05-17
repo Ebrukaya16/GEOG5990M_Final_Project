@@ -2,7 +2,7 @@
 
 # Project- Relationship of Social Grade to Crime Rates in West Yorkshire
 
-This project was developed as a final project for the MSc GIS GEOG5990M course, with the aim of examining the relationship between crime rates and social grade in the West Yorkshire region.
+This project was developed as a final project for the MSc GIS GEOG5990M course, with the aim of examining the relationship between crime rates and social grade in the West Yorkshire region. This project was created to provide public insight.
 
 Based on Nomis Website data for 2021 (https://www.nomisweb.co.uk/datasets/c2021sg002), various social grade will be examined according to different LSOA codes in West Yorkshire. These classes are: AB Higher and Middle Management/Executive/Professional Occupations, C1 Supervised Clerk and Junior Management/Executive/Professional Occupations, C2 Skilled Manual Occupations, and DE Semi-Skilled and Non-Skilled Manual Occupations/Unemployed and Lowest Class Occupations.
 At the same time, crime records published by West Yorkshire Police in December 2021 will be reviewed (https://data.police.uk/data/). This data includes the type of crime, reporting agency, LSOA information, and location information.
