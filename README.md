@@ -11,10 +11,10 @@ In this final project, crime data and social grade data will be analyzed in deta
 The shapefile file must be loaded and made available for use. Since crime data is published on the basis of LSOA (Lower Layer Super Output Area), our shapefile containing geographical data at the LSOA level was downloaded from the Geoportal website and Census 2021 from the website. https://geoportal.statistics.gov.uk/datasets/bb427d36197443959de8a1462c8f1c55_0/explore
 
 
-Project Path
+Project Path:
 Ebrukaya16/GEOG5990M_Final_Project/Finalproject.ipynb
 
-Required Files 
+Required Files: 
 
 The data used in this project was provided from crime.csv, Social_grade.csv and these two tables. 
 
