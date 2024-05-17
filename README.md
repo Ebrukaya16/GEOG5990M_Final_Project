@@ -16,7 +16,11 @@ Ebrukaya16/GEOG5990M_Final_Project/Finalproject.ipynb
 
 Required Files 
 
-This project used crime.csv, social_grade.csv, these two tables.  west_yorkshre_shp.dbf, west_yorkshre_shp.gpkg, west_yorkshre_shp.prj, west_yorkshre_shp.shp, west_yorkshre_shp.shx these files were used for west yorkshire shpfile. Spatial environment.yml, this file was used for computer pyhton package installation.
+The data used in this project was provided from crime.csv, Social_grade.csv and these two tables. 
+
+west_yorkshre_shp.dbf, west_yorkshre_shp.gpkg, west_yorkshre_shp.prj, west_yorkshre_shp.shp, west_yorkshre_shp.shx these files were used for west yorkshire shpfile. 
+
+Spatial environment.yml, this file was used for computer pyhton package installation.
 
 
 
