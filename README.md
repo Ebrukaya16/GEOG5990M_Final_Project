@@ -22,7 +22,7 @@ west_yorkshre_shp.dbf, west_yorkshre_shp.gpkg, west_yorkshre_shp.prj, west_yorks
 
 Spatial environment.yml, this file was used for computer pyhton package installation.
 
-
+In the ipynb file, each step is explained in detail and the results are interpreted.
 
 Lisans
 This project is licensed under the GNU GENERAL PUBLIC LICENSE. See the LICENSE file for more information.
